@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<financialCharges>
+  <guestCharge>
+    <guestName>John Doe</guestName>
+    <amount>1700</amount>
+  </guestCharge>
+  <guestCharge>
+    <guestName>Jane Smith</guestName>
+    <amount>2400</amount>
+  </guestCharge>
+  <guestCharge>
+    <guestName>Yasar</guestName>
+    <amount>1200</amount>
+  </guestCharge>
+</financialCharges>
